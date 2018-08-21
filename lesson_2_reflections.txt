@@ -7,7 +7,7 @@ Staging area is used as a staircase to add the bunch of files together into the 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+We can add one file at a time to the staging area to ensure the one commit per logical change. As only files added to staging area are committed.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
