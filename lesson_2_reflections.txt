@@ -14,6 +14,7 @@ organized? How would branches help?
 Branching is useful when an experimenta feature is to be added or a slightly different logical change has to be made. Branches allow us to edit or change the repository and commit them without affecting the original master branch. Also they can be merged into the master branch later on if required, making it convenient and easy to use.
 
 How do the diagrams help you visualize the branch structure?
+Diagrams are a good way of representing the branch structure as we can clearly see all the commits at a time and decide their order in that branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
