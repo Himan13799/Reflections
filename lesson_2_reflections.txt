@@ -11,6 +11,7 @@ We can add one file at a time to the staging area to ensure the one commit per l
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branching is useful when an experimenta feature is to be added or a slightly different logical change has to be made. Branches allow us to edit or change the repository and commit them without affecting the original master branch. Also they can be merged into the master branch later on if required, making it convenient and easy to use.
 
 How do the diagrams help you visualize the branch structure?
 
