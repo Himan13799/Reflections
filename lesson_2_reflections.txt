@@ -22,3 +22,4 @@ The result of merging 2 branches together is a master branch which has 2 parents
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging saves us from manually merging when it can be done easily through comparison with initial commit (or file). But in some cases comparison with file doesn't work well due to different versions of it at the end of the day. Whereas Manual Merging is better in such situations.
