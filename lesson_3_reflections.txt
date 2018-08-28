@@ -10,3 +10,6 @@ Branches are created within a single repository to be added to existing master b
 Forks are required when you don't have permission to change someone else's repository and thus want to make a copy of your own to make the changes.
 Clone is used in general to make a copy of any repository for using it.
 Branches are created in order to make changes and commit them without affecting the master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
