@@ -13,3 +13,8 @@ Branches are created in order to make changes and commit them without affecting 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Meeting people or sharing through mail/messages. It would be harder as changes would be difficult to make on a part of the project. There are no branches forks or clones which are easily availbale and easy to operate on GitHub.
+
+
+
